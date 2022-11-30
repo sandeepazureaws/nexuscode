@@ -50,7 +50,7 @@ http://3.110.194.88:8081/repository/package/
 <snapshotRepository>	
 <id>snapshots</id>
 <url>
-http://3.110.194.88:8081/repository/snapshots/
+http://3.110.194.88:8081/repository/snapshot/
 </url>
 </snapshotRepository>
 </distributionManagement>
